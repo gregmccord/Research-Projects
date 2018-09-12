@@ -28,3 +28,7 @@ It will also print a text to the terminal - the outputs of each model run and, i
 terms - and generate a plot of the ROC curves. All text output is the results of the models selected to
 run. None of the generated files require manual inspection - model results, terms, and topic distributions are
 all printed to the terminal.
+
+-Poster.pptx
+    Contains the poster that was presented to Princeton Professors and students
+that summarizes the findings of the project.
